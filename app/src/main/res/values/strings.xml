@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">form</string>
+    <string name="name">姓名:</string>
+    <string name="gender">性別:</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="bir">生日:</string>
+    <string name="mail">信箱:</string>
+    <string name="phone">手機:</string>
+    <string name="in">興趣:</string>
+    <string name="noting">尚無資料</string>
+
+
+</resources>
